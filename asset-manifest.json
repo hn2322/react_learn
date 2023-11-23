@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react_learn.git/static/js/main.207d6719.js",
-    "index.html": "/react_learn.git/index.html",
-    "main.207d6719.js.map": "/react_learn.git/static/js/main.207d6719.js.map"
+    "main.js": "/react_learn/static/js/main.207d6719.js",
+    "index.html": "/react_learn/index.html",
+    "main.207d6719.js.map": "/react_learn/static/js/main.207d6719.js.map"
   },
   "entrypoints": [
     "static/js/main.207d6719.js"
